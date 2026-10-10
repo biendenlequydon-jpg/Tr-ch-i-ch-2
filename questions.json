@@ -1,0 +1,682 @@
+[
+  {
+    "q": "Đâu là ví dụ về sở thích cá nhân?",
+    "opts": [
+      "Thích vẽ tranh vào thời gian rảnh",
+      "Luôn được điểm 10 mọi môn",
+      "Có chiều cao 1,7 m",
+      "Được phân công làm lớp trưởng"
+    ],
+    "a": 0,
+    "why": "Sở thích là hoạt động cá nhân yêu thích và muốn thực hiện.",
+    "topic": "Đặc điểm bản thân",
+    "level": 1,
+    "emoji": "🎨",
+    "time": 20,
+    "id": 1,
+    "points": 500
+  },
+  {
+    "q": "Nội dung nào giúp em khám phá đặc điểm riêng của bản thân?",
+    "opts": [
+      "Hứng thú, sở thích, năng lực và phẩm chất",
+      "Chỉ xem điểm số của bạn bè",
+      "Chỉ quan tâm đến ngoại hình",
+      "Làm theo mọi lựa chọn của người khác"
+    ],
+    "a": 0,
+    "why": "Tài liệu gợi ý tìm hiểu sở thích, sức khỏe, năng lực, sở trường, phẩm chất và kĩ năng sống.",
+    "topic": "Đặc điểm bản thân",
+    "level": 1,
+    "emoji": "🔎",
+    "time": 20,
+    "id": 2,
+    "points": 500
+  },
+  {
+    "q": "“Sở trường” được hiểu phù hợp nhất là gì?",
+    "opts": [
+      "Lĩnh vực mình có khả năng làm tốt",
+      "Việc mình bắt buộc phải làm",
+      "Điều người khác luôn làm thay",
+      "Một điểm yếu cần che giấu"
+    ],
+    "a": 0,
+    "why": "Sở trường là lĩnh vực hoặc hoạt động bản thân có khả năng nổi trội và có thể tiếp tục phát triển.",
+    "topic": "Đặc điểm bản thân",
+    "level": 1,
+    "emoji": "⭐",
+    "time": 20,
+    "id": 3,
+    "points": 500
+  },
+  {
+    "q": "Điểm mạnh và điểm yếu của bản thân nên được xác định như thế nào?",
+    "opts": [
+      "Suy ngẫm về đặc điểm và khả năng của mình",
+      "Chỉ dựa vào lời khen của một người",
+      "So sánh mình với người nổi tiếng",
+      "Tránh nghĩ về bản thân"
+    ],
+    "a": 0,
+    "why": "Tài liệu yêu cầu suy ngẫm và phân biệt điểm mạnh, điểm yếu trong những đặc điểm riêng.",
+    "topic": "Đặc điểm bản thân",
+    "level": 1,
+    "emoji": "🪞",
+    "time": 20,
+    "id": 4,
+    "points": 500
+  },
+  {
+    "q": "Điều nào sau đây thuộc về phẩm chất cá nhân?",
+    "opts": [
+      "Trung thực",
+      "Chiều cao",
+      "Màu áo đang mặc",
+      "Số bàn trong lớp"
+    ],
+    "a": 0,
+    "why": "Trung thực là một phẩm chất; các lựa chọn còn lại không phải phẩm chất cá nhân.",
+    "topic": "Đặc điểm bản thân",
+    "level": 1,
+    "emoji": "💎",
+    "time": 20,
+    "id": 5,
+    "points": 500
+  },
+  {
+    "q": "Theo chủ đề, nội dung nào có thể là một đặc điểm riêng của bản thân?",
+    "opts": [
+      "Thói quen",
+      "Thời khóa biểu của cả trường",
+      "Số phòng học",
+      "Tên môn học trong sách"
+    ],
+    "a": 0,
+    "why": "Thói quen nằm trong nhóm sở thích, hứng thú và thói quen cần khám phá.",
+    "topic": "Đặc điểm bản thân",
+    "level": 1,
+    "emoji": "🧩",
+    "time": 20,
+    "id": 6,
+    "points": 500
+  },
+  {
+    "q": "Sở trường vẽ tranh có thể liên quan đến nhóm nghề nào?",
+    "opts": [
+      "Họa sĩ, kiến trúc sư, thiết kế thời trang",
+      "Bác sĩ, điều dưỡng בלבד",
+      "Lái xe, giao hàng בלבד",
+      "Không liên quan đến nghề nghiệp"
+    ],
+    "a": 0,
+    "why": "Tài liệu nêu sở trường vẽ liên quan đến họa sĩ, kiến trúc sư, thiết kế thời trang.",
+    "topic": "Đặc điểm bản thân",
+    "level": 1,
+    "emoji": "🖌️",
+    "time": 20,
+    "id": 7,
+    "points": 500
+  },
+  {
+    "q": "Cách nào thể hiện sự tự tin về đặc điểm riêng của bản thân?",
+    "opts": [
+      "Chủ động giới thiệu về bản thân",
+      "Luôn cho rằng mình giỏi hơn mọi người",
+      "Không bao giờ lắng nghe góp ý",
+      "Che giấu mọi sở thích của mình"
+    ],
+    "a": 0,
+    "why": "Tài liệu gợi ý chủ động giới thiệu về đặc điểm riêng của mình.",
+    "topic": "Tự tin",
+    "level": 1,
+    "emoji": "🎤",
+    "time": 20,
+    "id": 8,
+    "points": 500
+  },
+  {
+    "q": "Khi được giao nhiệm vụ phù hợp với khả năng, em nên làm gì?",
+    "opts": [
+      "Sẵn sàng nhận nhiệm vụ",
+      "Từ chối vì sợ bị đánh giá",
+      "Đợi bạn làm thay",
+      "Nhận rồi bỏ dở"
+    ],
+    "a": 0,
+    "why": "Sẵn sàng nhận nhiệm vụ phù hợp với khả năng là một cách thể hiện sự tự tin.",
+    "topic": "Tự tin",
+    "level": 1,
+    "emoji": "🙋",
+    "time": 20,
+    "id": 9,
+    "points": 500
+  },
+  {
+    "q": "Một cách để phát triển sự tự tin là gì?",
+    "opts": [
+      "Chủ động tham gia câu lạc bộ mình yêu thích",
+      "Tránh tất cả hoạt động tập thể",
+      "Không chia sẻ với ai",
+      "Chỉ tham gia khi chắc chắn đứng đầu"
+    ],
+    "a": 0,
+    "why": "Tài liệu khuyến khích chủ động tham gia câu lạc bộ và hoạt động mình yêu thích.",
+    "topic": "Tự tin",
+    "level": 1,
+    "emoji": "🤝",
+    "time": 20,
+    "id": 10,
+    "points": 500
+  },
+  {
+    "q": "Vì sao cần nhận diện sở thích và sở trường của bản thân?",
+    "opts": [
+      "Để hiểu mình và định hướng phát triển phù hợp",
+      "Để luôn chọn nghề giống bạn thân",
+      "Để không cần học thêm kĩ năng",
+      "Để tránh mọi thử thách"
+    ],
+    "a": 0,
+    "why": "Nhận diện hứng thú và sở trường giúp xây dựng kế hoạch phát triển gắn với định hướng nghề nghiệp.",
+    "topic": "Tự tin",
+    "level": 2,
+    "emoji": "🧭",
+    "time": 25,
+    "id": 11,
+    "points": 700
+  },
+  {
+    "q": "Thể hiện sự tự tin phù hợp nhất là hành động nào?",
+    "opts": [
+      "Giới thiệu điểm mạnh nhưng vẫn tôn trọng người khác",
+      "Khoe thành tích để hạ thấp bạn",
+      "Không chấp nhận bất kì góp ý nào",
+      "Cho rằng mình không cần cố gắng"
+    ],
+    "a": 0,
+    "why": "Tự tin là thể hiện khả năng của mình một cách phù hợp, không đồng nghĩa với tự cao.",
+    "topic": "Tự tin",
+    "level": 2,
+    "emoji": "🌟",
+    "time": 25,
+    "id": 12,
+    "points": 700
+  },
+  {
+    "q": "Khi tham gia câu lạc bộ yêu thích, học sinh có thể đạt được điều gì?",
+    "opts": [
+      "Có cơ hội thể hiện và phát triển sở trường",
+      "Chắc chắn giỏi ngay mọi lĩnh vực",
+      "Không cần lập kế hoạch nữa",
+      "Không cần hợp tác với người khác"
+    ],
+    "a": 0,
+    "why": "Tham gia hoạt động phù hợp tạo cơ hội thực hành và phát triển năng lực.",
+    "topic": "Tự tin",
+    "level": 2,
+    "emoji": "🎭",
+    "time": 25,
+    "id": 13,
+    "points": 700
+  },
+  {
+    "q": "Tình huống nào là một thay đổi có thể gặp trong cuộc sống?",
+    "opts": [
+      "Chuyển sang môi trường học tập mới",
+      "Trang sách có số trang cố định",
+      "Bảng lớp vẫn ở trong phòng",
+      "Một bài tập đã nộp xong"
+    ],
+    "a": 0,
+    "why": "Tài liệu nêu thay đổi môi trường học tập là một tình huống cần thích ứng.",
+    "topic": "Thích ứng",
+    "level": 2,
+    "emoji": "🏫",
+    "time": 25,
+    "id": 14,
+    "points": 700
+  },
+  {
+    "q": "Phẩm chất nào được gợi ý để thích ứng với thay đổi?",
+    "opts": [
+      "Tự lập",
+      "Phụ thuộc hoàn toàn",
+      "Bỏ cuộc ngay lập tức",
+      "Đổ lỗi cho người khác"
+    ],
+    "a": 0,
+    "why": "Tài liệu nêu tự lập cùng với tự tin, vượt khó và suy nghĩ tích cực.",
+    "topic": "Thích ứng",
+    "level": 2,
+    "emoji": "🧗",
+    "time": 25,
+    "id": 15,
+    "points": 700
+  },
+  {
+    "q": "Khi gặp thay đổi, suy nghĩ tích cực có tác dụng gì?",
+    "opts": [
+      "Giúp nhìn vấn đề theo hướng xây dựng để tìm cách xử lí",
+      "Làm mọi khó khăn tự biến mất",
+      "Bảo đảm không mắc sai lầm",
+      "Thay thế mọi hành động cụ thể"
+    ],
+    "a": 0,
+    "why": "Suy nghĩ tích cực là một yêu cầu giúp thích ứng, nhưng vẫn cần hành động và giải quyết vấn đề.",
+    "topic": "Thích ứng",
+    "level": 2,
+    "emoji": "☀️",
+    "time": 25,
+    "id": 16,
+    "points": 700
+  },
+  {
+    "q": "Kĩ năng nào giúp lựa chọn cách xử lí khi gặp vấn đề mới?",
+    "opts": [
+      "Ra quyết định và giải quyết vấn đề",
+      "Ghi nhớ màu sắc",
+      "Trang trí vở",
+      "Đọc thật nhanh mọi dòng"
+    ],
+    "a": 0,
+    "why": "Kĩ năng ra quyết định và giải quyết vấn đề được nêu trong tài liệu.",
+    "topic": "Thích ứng",
+    "level": 2,
+    "emoji": "🧠",
+    "time": 25,
+    "id": 17,
+    "points": 700
+  },
+  {
+    "q": "Vì sao cần quản lí cảm xúc khi thích ứng với thay đổi?",
+    "opts": [
+      "Để bình tĩnh và lựa chọn cách ứng xử phù hợp hơn",
+      "Để không bao giờ có cảm xúc",
+      "Để tránh nói chuyện với mọi người",
+      "Để người khác quyết định thay mình"
+    ],
+    "a": 0,
+    "why": "Quản lí cảm xúc là một trong các kĩ năng cần thiết khi điều chỉnh bản thân.",
+    "topic": "Thích ứng",
+    "level": 2,
+    "emoji": "💗",
+    "time": 25,
+    "id": 18,
+    "points": 700
+  },
+  {
+    "q": "Khi môi trường sống thay đổi, việc nào phù hợp nhất?",
+    "opts": [
+      "Nhận diện điều thay đổi và xác định điều cần điều chỉnh",
+      "Giả vờ không có gì thay đổi",
+      "Từ bỏ mọi mục tiêu",
+      "Chờ người khác giải quyết tất cả"
+    ],
+    "a": 0,
+    "why": "Cần xác định thay đổi và đối chiếu đặc điểm bản thân với những yêu cầu để thích ứng.",
+    "topic": "Thích ứng",
+    "level": 2,
+    "emoji": "🔄",
+    "time": 25,
+    "id": 19,
+    "points": 700
+  },
+  {
+    "q": "Đặc điểm nào giúp em thích ứng linh hoạt hơn?",
+    "opts": [
+      "Mềm dẻo và linh hoạt",
+      "Cứng nhắc trong mọi tình huống",
+      "Không bao giờ thay đổi cách làm",
+      "Từ chối học hỏi"
+    ],
+    "a": 0,
+    "why": "Mềm dẻo và linh hoạt được nêu trực tiếp trong nhóm yêu cầu để thích ứng.",
+    "topic": "Thích ứng",
+    "level": 2,
+    "emoji": "🌱",
+    "time": 25,
+    "id": 20,
+    "points": 700
+  },
+  {
+    "q": "Một học sinh muốn giới thiệu đặc điểm riêng của mình. Sản phẩm nào phù hợp với gợi ý trong tài liệu?",
+    "opts": [
+      "Bài viết, tranh tự họa hoặc sơ đồ tư duy",
+      "Bảng điểm của một bạn khác",
+      "Danh sách nội quy trường",
+      "Bản sao thời khóa biểu"
+    ],
+    "a": 0,
+    "why": "Tài liệu gợi ý bài viết, hình vẽ, tranh tự họa, sơ đồ tư duy hoặc đọc rap.",
+    "topic": "Sản phẩm giới thiệu",
+    "level": 3,
+    "emoji": "🖼️",
+    "time": 30,
+    "id": 21,
+    "points": 900
+  },
+  {
+    "q": "Lan ngại nói trước lớp nhưng muốn giới thiệu sản phẩm của mình. Bước phù hợp là gì?",
+    "opts": [
+      "Chuẩn bị nội dung và luyện trình bày, sau đó mạnh dạn chia sẻ",
+      "Nhờ bạn trình bày thay trong mọi lần",
+      "Bỏ sản phẩm vì lo lắng",
+      "Giấu sản phẩm để không ai xem"
+    ],
+    "a": 0,
+    "why": "Chuẩn bị và thực hành là cách chủ động thể hiện đặc điểm riêng; tài liệu khuyến khích giới thiệu sản phẩm đã thiết kế.",
+    "topic": "Sản phẩm giới thiệu",
+    "level": 3,
+    "emoji": "🎙️",
+    "time": 30,
+    "id": 22,
+    "points": 900
+  },
+  {
+    "q": "Một sản phẩm giới thiệu bản thân nên tập trung vào điều gì?",
+    "opts": [
+      "Đặc điểm, hứng thú, sở trường và nét riêng của mình",
+      "Những thông tin riêng tư của bạn bè",
+      "Các thành tích không có thật",
+      "Chỉ những điều mình không thích ở người khác"
+    ],
+    "a": 0,
+    "why": "Mục tiêu hoạt động là thể hiện những đặc điểm riêng của chính bản thân.",
+    "topic": "Sản phẩm giới thiệu",
+    "level": 3,
+    "emoji": "🪪",
+    "time": 30,
+    "id": 23,
+    "points": 900
+  },
+  {
+    "q": "Khi làm sơ đồ tư duy giới thiệu bản thân, cách tổ chức nào hợp lí?",
+    "opts": [
+      "Đặt bản thân ở trung tâm, phân nhánh các đặc điểm chính",
+      "Viết nội dung ngẫu nhiên không có nhóm",
+      "Chỉ ghi tên bạn bè",
+      "Chỉ trang trí mà không có thông tin"
+    ],
+    "a": 0,
+    "why": "Sơ đồ tư duy nên tổ chức thông tin theo chủ đề để thể hiện các đặc điểm riêng rõ ràng.",
+    "topic": "Sản phẩm giới thiệu",
+    "level": 3,
+    "emoji": "🗺️",
+    "time": 30,
+    "id": 24,
+    "points": 900
+  },
+  {
+    "q": "Sau khi trình bày sản phẩm, cách ứng xử nào phù hợp?",
+    "opts": [
+      "Lắng nghe phản hồi và suy ngẫm về điều có thể cải thiện",
+      "Bác bỏ mọi ý kiến góp ý",
+      "Chê bai sản phẩm của bạn",
+      "Không quan tâm người nghe có hiểu không"
+    ],
+    "a": 0,
+    "why": "Lắng nghe và suy ngẫm giúp điều chỉnh cách thể hiện bản thân tốt hơn.",
+    "topic": "Sản phẩm giới thiệu",
+    "level": 3,
+    "emoji": "👂",
+    "time": 30,
+    "id": 25,
+    "points": 900
+  },
+  {
+    "q": "Một kế hoạch điều chỉnh bản thân cần nêu những gì theo gợi ý của tài liệu?",
+    "opts": [
+      "Điều cần điều chỉnh, biện pháp, thời gian và người hỗ trợ",
+      "Chỉ tên người lập kế hoạch",
+      "Chỉ một câu khẩu hiệu",
+      "Chỉ kết quả mong muốn, không có biện pháp"
+    ],
+    "a": 0,
+    "why": "Bảng gợi ý có nội dung cần điều chỉnh, biện pháp thực hiện, thời gian thực hiện và người hỗ trợ.",
+    "topic": "Kế hoạch điều chỉnh",
+    "level": 3,
+    "emoji": "📝",
+    "time": 30,
+    "id": 26,
+    "points": 900
+  },
+  {
+    "q": "Nam thường hồi hộp khi đến nơi lạ và gặp người lạ. Biện pháp nào gần với gợi ý trong tài liệu?",
+    "opts": [
+      "Hít thở sâu và suy nghĩ tích cực để tự trấn an",
+      "Tránh ra khỏi nhà trong mọi trường hợp",
+      "Tự trách mình mỗi khi lo lắng",
+      "Để người khác quyết định mọi việc"
+    ],
+    "a": 0,
+    "why": "Tài liệu nêu hít thở sâu và suy nghĩ tích cực để tự trấn an bản thân.",
+    "topic": "Kế hoạch điều chỉnh",
+    "level": 3,
+    "emoji": "🌬️",
+    "time": 30,
+    "id": 27,
+    "points": 900
+  },
+  {
+    "q": "Vì sao kế hoạch điều chỉnh bản thân cần có thời gian thực hiện?",
+    "opts": [
+      "Để xác định khi nào thực hiện và theo dõi tiến độ",
+      "Để kế hoạch trông dài hơn",
+      "Để không cần đánh giá kết quả",
+      "Để trì hoãn việc thực hiện"
+    ],
+    "a": 0,
+    "why": "Thời gian thực hiện giúp kế hoạch cụ thể và thuận lợi cho việc theo dõi.",
+    "topic": "Kế hoạch điều chỉnh",
+    "level": 3,
+    "emoji": "⏰",
+    "time": 30,
+    "id": 28,
+    "points": 900
+  },
+  {
+    "q": "Nếu một biện pháp trong kế hoạch chưa hiệu quả, em nên làm gì?",
+    "opts": [
+      "Xem lại nguyên nhân và điều chỉnh biện pháp",
+      "Bỏ mục tiêu ngay lập tức",
+      "Giấu kết quả để không ai biết",
+      "Lặp lại y nguyên mà không suy xét"
+    ],
+    "a": 0,
+    "why": "Kế hoạch nhằm giúp điều chỉnh bản thân; cần xem xét kết quả để chọn biện pháp phù hợp hơn.",
+    "topic": "Kế hoạch điều chỉnh",
+    "level": 3,
+    "emoji": "🛠️",
+    "time": 30,
+    "id": 29,
+    "points": 900
+  },
+  {
+    "q": "Ai có thể được ghi vào mục “Người hỗ trợ” trong kế hoạch?",
+    "opts": [
+      "Người có thể hỗ trợ em thực hiện việc điều chỉnh",
+      "Một người không biết kế hoạch là gì",
+      "Bất kì người nổi tiếng nào",
+      "Chỉ người không liên quan đến việc đó"
+    ],
+    "a": 0,
+    "why": "Người hỗ trợ nên là người phù hợp, có thể đồng hành hoặc giúp em thực hiện kế hoạch.",
+    "topic": "Kế hoạch điều chỉnh",
+    "level": 3,
+    "emoji": "🤝",
+    "time": 30,
+    "id": 30,
+    "points": 900
+  },
+  {
+    "q": "Mai muốn tự tin giao tiếp hơn. Kế hoạch nào cụ thể và phù hợp nhất?",
+    "opts": [
+      "Mỗi tuần chủ động trò chuyện với bạn mới và tự đánh giá tiến bộ",
+      "Chờ đến khi hết ngại mới bắt đầu giao tiếp",
+      "Đặt mục tiêu “tự tin hơn” nhưng không có hành động",
+      "Tránh mọi hoạt động cần giao tiếp"
+    ],
+    "a": 0,
+    "why": "Kế hoạch tốt cần có hành động cụ thể, thời gian và cách theo dõi sự tiến bộ.",
+    "topic": "Kế hoạch điều chỉnh",
+    "level": 4,
+    "emoji": "💬",
+    "time": 35,
+    "id": 31,
+    "points": 1200
+  },
+  {
+    "q": "Một học sinh thích vẽ và muốn phát triển sở trường. Việc nào phù hợp với ví dụ trong tài liệu?",
+    "opts": [
+      "Tham gia câu lạc bộ mỹ thuật và thực hành vẽ thường xuyên",
+      "Chỉ xem tranh mà không luyện tập",
+      "Chờ có năng khiếu hoàn hảo mới vẽ",
+      "Chọn hoạt động không liên quan đến sở trường"
+    ],
+    "a": 0,
+    "why": "Tài liệu gợi ý tham gia câu lạc bộ mỹ thuật, vẽ báo tường và thực hành vẽ để nâng cao khả năng.",
+    "topic": "Sở trường và nghề nghiệp",
+    "level": 4,
+    "emoji": "🎨",
+    "time": 35,
+    "id": 32,
+    "points": 1200
+  },
+  {
+    "q": "Khi xây dựng kế hoạch phát triển sở trường, nội dung nào cần có?",
+    "opts": [
+      "Sở trường cần phát huy, việc cần làm, thời gian và kết quả mong muốn",
+      "Chỉ tên nghề nghiệp, không cần hoạt động",
+      "Chỉ mong muốn mà không có thời hạn",
+      "Danh sách nghề của bạn bè"
+    ],
+    "a": 0,
+    "why": "Bảng kế hoạch trong tài liệu gồm sở trường cần phát huy, việc cần làm, thời gian và kết quả mong muốn.",
+    "topic": "Sở trường và nghề nghiệp",
+    "level": 4,
+    "emoji": "📈",
+    "time": 35,
+    "id": 33,
+    "points": 1200
+  },
+  {
+    "q": "Hùng có sở trường thuyết trình. Hoạt động nào giúp phát triển sở trường này?",
+    "opts": [
+      "Tích cực phát biểu và tham gia các dịp thuyết trình phù hợp",
+      "Chỉ học thuộc bài nhưng không trình bày",
+      "Tránh mọi diễn đàn học sinh",
+      "Chỉ luyện tập khi đã đến ngày thi"
+    ],
+    "a": 0,
+    "why": "Tài liệu gợi ý tích cực phát biểu và tham gia diễn đàn, thi thuyết trình hoặc hoạt động tuyên truyền.",
+    "topic": "Sở trường và nghề nghiệp",
+    "level": 4,
+    "emoji": "🎤",
+    "time": 35,
+    "id": 34,
+    "points": 1200
+  },
+  {
+    "q": "Học sinh thích đi nhiều nơi và tìm hiểu văn hóa có thể khám phá nhóm nghề nào theo gợi ý tài liệu?",
+    "opts": [
+      "Hướng dẫn viên du lịch, phi công, tiếp viên hàng không",
+      "Chỉ nghề họa sĩ",
+      "Chỉ nghề thiết kế thời trang",
+      "Không có nghề nào liên quan"
+    ],
+    "a": 0,
+    "why": "Tài liệu đưa ví dụ hứng thú đi nhiều nơi liên quan đến hướng dẫn viên du lịch, phi công và tiếp viên hàng không.",
+    "topic": "Sở trường và nghề nghiệp",
+    "level": 4,
+    "emoji": "✈️",
+    "time": 35,
+    "id": 35,
+    "points": 1200
+  },
+  {
+    "q": "Điều gì cho thấy kế hoạch phát triển sở trường đang được thực hiện có định hướng?",
+    "opts": [
+      "Có việc làm cụ thể, thời gian và kết quả mong muốn",
+      "Chỉ nói rằng mình rất thích lĩnh vực đó",
+      "Đổi mục tiêu mỗi ngày mà không theo dõi",
+      "Chờ người khác lập kế hoạch hộ"
+    ],
+    "a": 0,
+    "why": "Kế hoạch cần gắn sở trường với các hoạt động, thời gian và kết quả mong muốn.",
+    "topic": "Sở trường và nghề nghiệp",
+    "level": 4,
+    "emoji": "🧭",
+    "time": 35,
+    "id": 36,
+    "points": 1200
+  },
+  {
+    "q": "Sau một tháng luyện thuyết trình, cách nào giúp đánh giá tiến bộ hợp lí nhất?",
+    "opts": [
+      "Đối chiếu khả năng hiện tại với mục tiêu đã đặt và nhận phản hồi",
+      "Chỉ so sánh mình với người giỏi nhất lớp",
+      "Kết luận thành công chỉ vì đã luyện tập",
+      "Không xem lại quá trình thực hiện"
+    ],
+    "a": 0,
+    "why": "Đánh giá cần đối chiếu kết quả thực tế với mục tiêu và xem xét sự tiến bộ của bản thân.",
+    "topic": "Sở trường và nghề nghiệp",
+    "level": 4,
+    "emoji": "📊",
+    "time": 35,
+    "id": 37,
+    "points": 1200
+  },
+  {
+    "q": "Một học sinh thích thiết kế nhưng chưa biết dùng phần mềm đồ họa. Kế hoạch phát triển sở trường nào hợp lí nhất?",
+    "opts": [
+      "Tìm tài liệu học, luyện tập theo tuần và lưu sản phẩm để theo dõi tiến bộ",
+      "Từ bỏ sở thích vì chưa giỏi ngay",
+      "Chỉ mua phần mềm mà không thực hành",
+      "Chọn nghề theo mong muốn của bạn thân"
+    ],
+    "a": 0,
+    "why": "Kế hoạch nên biến hứng thú thành hành động học tập cụ thể và có cách theo dõi kết quả.",
+    "topic": "Sở trường và nghề nghiệp",
+    "level": 4,
+    "emoji": "💻",
+    "time": 35,
+    "id": 38,
+    "points": 1200
+  },
+  {
+    "q": "Nếu sở trường của em chưa rõ ràng, em nên làm gì trước khi lập kế hoạch nghề nghiệp?",
+    "opts": [
+      "Khám phá hứng thú, thử các hoạt động phù hợp và suy ngẫm về trải nghiệm",
+      "Chọn nghề ngay theo trào lưu",
+      "Chỉ nghe một lời khuyên rồi quyết định",
+      "Không tham gia hoạt động mới"
+    ],
+    "a": 0,
+    "why": "Tài liệu đặt việc xác định hứng thú và sở trường trước bước lập kế hoạch phát triển sở trường.",
+    "topic": "Sở trường và nghề nghiệp",
+    "level": 4,
+    "emoji": "🔍",
+    "time": 35,
+    "id": 39,
+    "points": 1200
+  },
+  {
+    "q": "Phương án nào thể hiện đầy đủ nhất việc phát triển sở trường gắn với nghề nghiệp tương lai?",
+    "opts": [
+      "Xác định sở trường, chọn hoạt động rèn luyện, lập thời gian và xem xét kết quả",
+      "Chỉ chọn tên nghề có vẻ hấp dẫn",
+      "Chỉ nêu điểm mạnh nhưng không hành động",
+      "Lập kế hoạch một lần rồi không xem lại"
+    ],
+    "a": 0,
+    "why": "Đây là chuỗi bước phù hợp với nội dung hoạt động 6: xác định hứng thú, sở trường và xây dựng kế hoạch phát triển.",
+    "topic": "Sở trường và nghề nghiệp",
+    "level": 4,
+    "emoji": "🏆",
+    "time": 35,
+    "id": 40,
+    "points": 1200
+  }
+]
